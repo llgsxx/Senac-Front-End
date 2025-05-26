@@ -1,0 +1,48 @@
+*{  background-color: black;
+    
+}
+body{
+    background-image: url(PrjHelloWorld/pexels-photo-672636.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 900px;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 58px;
+    margin: 100px;
+    
+}
+ul{
+    color: red;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    list-style: none;
+    font-size: 28px;
+    display: flex;
+    list-style: none;
+    animation: scroll-left 1s linear infinite;
+}
+    body {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+
+    .carousel-container {
+      width: 100%;
+      overflow: hidden;
+      background: #f0f0f0;
+    }
+
+    @keyframes scroll-left {
+      0% {
+        transform: translateX(50%);
+      }
+      100% {
+        transform: translateX(-0%);
+      }
+    }
+ 
