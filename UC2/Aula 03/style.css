@@ -33,3 +33,13 @@ header p {
     font-family: 'Arial', sans-serif;
     margin-top: 20px;
 }
+table {
+    width: 100px;
+    border: 1px solid #000;
+    margin-top: 20px;
+}
+table th, table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #000;
+}
