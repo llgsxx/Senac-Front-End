@@ -34,12 +34,12 @@ header p {
     margin-top: 20px;
 }
 table {
-    width: 100px;
+    width: 50%;
     border: 1px solid #000;
     margin-top: 20px;
 }
 table th, table td {
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     border: 1px solid #000;
 }
