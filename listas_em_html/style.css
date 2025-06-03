@@ -31,7 +31,7 @@ ol {
 body {
     font-family: "Nosifer", sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background: linear-gradient(to right, #F2D022, #F2B90F, #F29B30, #A6450D, #D95C14);
     padding: 30px;
 }
 dl {
