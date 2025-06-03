@@ -3,12 +3,13 @@
     padding: 0;
     box-sizing: border-box; 
 }
+
+
 h1 {
     text-align: center;
-    margin: 20px 0;
+    margin: 10px 0;
 }   
 ul {
-    
     padding: 0;
 }       
 li {
@@ -19,7 +20,8 @@ li {
 }
 
 li:hover {
-    background-color: red;
+    background-color: #e0e0e0;
+    cursor: pointer;  
 }
 
 ol {
@@ -27,10 +29,10 @@ ol {
     padding-left: 20px;
 }
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Libre Barcode 128 Text", system-ui;
     line-height: 1.6;
     background-color: #f4f4f4;
-    padding: 20px;
+    padding: 30px;
 }
 dl {
     margin: 5px 0;
