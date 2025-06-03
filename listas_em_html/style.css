@@ -1,13 +1,12 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; 
+    box-sizing: border-box;
 }
-
-
 h1 {
     text-align: center;
     margin: 10px 0;
+    color: red;
 }   
 ul {
     padding: 0;
@@ -17,6 +16,7 @@ li {
     border: 1px solid #ccc;
     margin: 5px 0;
     background-color: #f9f9f9;
+    
 }
 
 li:hover {
@@ -29,7 +29,7 @@ ol {
     padding-left: 20px;
 }
 body {
-    font-family: "Libre Barcode 128 Text", system-ui;
+    font-family: "Nosifer", sans-serif;
     line-height: 1.6;
     background-color: #f4f4f4;
     padding: 30px;
