@@ -14,7 +14,7 @@ ul {
 }       
 li {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid black;
     margin: 5px 0;
     background-color: #f5ea5583;
     border-radius: 5px;
@@ -35,9 +35,6 @@ body {
     line-height: 1.6;
     background: linear-gradient(to right, #F2D022, #F2B90F, #F29B30, #A6450D, #D95C14);
     padding: 150px;
-}
-dl {
-    margin: 5px 0;
 }
 dt {
     font-weight: bold;
